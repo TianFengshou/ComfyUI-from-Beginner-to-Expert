@@ -7,6 +7,7 @@ A ComfyUI tutorial for beginners to get started. Newcomers with zero foundation 
 
 ## catalogue
 
+```text
 1. Getting Started
    1.1 Software Body and Background
    1.2 Body Installation (including instructions for different versions)
@@ -37,4 +38,4 @@ A ComfyUI tutorial for beginners to get started. Newcomers with zero foundation 
 6. Advanced
 7. Advanced to advanced
 8. Final chapter
-
+```

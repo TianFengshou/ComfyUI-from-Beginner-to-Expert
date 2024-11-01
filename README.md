@@ -1,5 +1,5 @@
 # ComfyUI-from-Beginner-to-Expert
-[English](https://github.com/TianFengshou/ComfyUI-from-Beginner-to-Expert/blob/main/README.md) | [简体中文](https://github.com/TianFengshou/ComfyUI-from-Beginner-to-Expert/README_Multi_Language_Version/README_CN.md)
+[English](https://github.com/TianFengshou/ComfyUI-from-Beginner-to-Expert/blob/main/README.md) | [简体中文](https://github.com/TianFengshou/ComfyUI-from-Beginner-to-Expert/blob/main/README_Multi_Language_Version/README_CN.md)
 
 ## Overview
 
